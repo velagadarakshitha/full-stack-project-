@@ -1,0 +1,13 @@
+com\BankApplication\BankApplication.class
+com\BankApplication\dto\BankAccountDTO.class
+com\BankApplication\Service\BankService.class
+com\BankApplication\dto\SendMoneyRequest.class
+com\BankApplication\Repository\UserRepository.class
+com\BankApplication\Service\UserService.class
+com\BankApplication\Repository\StatementRepository.class
+com\BankApplication\config\WebConfig.class
+com\BankApplication\Service\StatementService.class
+com\BankApplication\dto\StatementDTO.class
+com\BankApplication\dto\UserDTO.class
+com\BankApplication\controller\UserController.class
+com\BankApplication\Repository\BankRepository.class
